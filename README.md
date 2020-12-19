@@ -1,5 +1,5 @@
 **WDIO GetStarted:**
-https://webdriver.io/docs/gettingstarted.html
+* https://webdriver.io/docs/gettingstarted.html
 
 **Allure Report:**
 <div align="left">
