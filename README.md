@@ -9,6 +9,8 @@ It will create "node_modules" directory automatically in the project root.
 **Plugins:**
 * @rpii/wdio-html-reporter
 * @wdio/allure-reporter
+* allure-commandline
+* windows-build-tools
 
 **Generate Allure Reports:**
 * allure generate allure-results && allure open
