@@ -1,3 +1,8 @@
+**Note:**
+```
+Install supporting node modules inside your project root. 
+It will create "node_modules" directory automatically in the project root.
+```
 **WDIO GetStarted:**
 * https://webdriver.io/docs/gettingstarted.html
 
