@@ -1,12 +1,12 @@
 **WDIO GetStarted:**
 * https://webdriver.io/docs/gettingstarted.html
 
-**Plugins**
+**Plugins:**
 * Cucumber
 * @rpii/wdio-html-reporter
 * @wdio/allure-reporter
 
-**Generate Allure Reports**
+**Generate Allure Reports:**
 * allure generate allure-results && allure open
 
 **Allure Report:**
