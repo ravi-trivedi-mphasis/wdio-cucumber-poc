@@ -2,7 +2,6 @@
 * https://webdriver.io/docs/gettingstarted.html
 
 **Plugins:**
-* cucumber
 * @rpii/wdio-html-reporter
 * @wdio/allure-reporter
 
