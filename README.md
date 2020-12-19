@@ -1,3 +1,6 @@
+**WDIO GetStarted:**
+https://webdriver.io/docs/gettingstarted.html
+
 **Allure Report:**
 <div align="left">
   <img src="images/allure_1.png" width="350">
